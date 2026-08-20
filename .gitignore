@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+
+.aws/
+credentials
+
+.env
+venv/
+env/
+
+.DS_Store
+
+.vscode/
+.idea/
